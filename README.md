@@ -1,9 +1,11 @@
 # Slide-MP4-to-PDF
 
 ESPECIALLY for webinars with powerpoint
-  -- Three steps from sth.mp4 to sth.pdf, 
+
+Three steps from sth.mp4 to sth.pdf, 
 
 Can cut every frame to pic with fixed size.
+
 Can exclude too similar pic between two adjacent frames via cos similarity.
 
 --Python 2.7-----------------------
