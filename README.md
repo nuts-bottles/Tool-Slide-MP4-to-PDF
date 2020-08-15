@@ -1,31 +1,28 @@
 Slide-MP4-to-PDF
 --------------------------------
-ESPECIALLY for webinars with powerpoint
+For screen-recording MP4 of powerpoint-based webinar
 
-Three steps from sth.mp4 to sth.pdf, 
+STEP1: Run step1.py
 
-STEP1:
+STEP2: Manually remove unwanted JPG in './output/'
 
-STEP2:
-
-STEP3:
-
+STEP3: Run step3.py
 
 --------------------------------
-Can cut every frame to pic with fixed size.
+Can cut every frame to pic with smaller fixed size.
 
 Can exclude too similar pic between two adjacent frames via cos similarity.
 
 -------------------------------
 
-Python 2.7
+Python = 2.7
+         
+numpy = 1.16.6             
 
-Package       	Version            
+opencv-python =	2.4.13.7           
 
-numpy         	1.16.6             
+Pillow = 6.2.2                       
 
-opencv-python 	2.4.13.7           
+PyMuPDF =1.17.5     
 
-Pillow        	6.2.2                       
-
-PyMuPDF       	1.17.5                 
+-------------------------------
