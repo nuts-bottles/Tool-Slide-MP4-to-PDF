@@ -1,6 +1,6 @@
 Slide-MP4-to-PDF
 --------------------------------
-For screen-recording MP4 of powerpoint-based webinar
+For MP4 screen-recording of powerpoint-based webinar
 
   -> Can cut every frame to pic with smaller fixed size.
 
